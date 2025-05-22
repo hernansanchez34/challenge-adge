@@ -1,4 +1,3 @@
-#source ~/node2vec-310/bin/activate
 import os
 import numpy as np
 import networkx as nx
